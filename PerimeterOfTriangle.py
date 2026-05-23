@@ -1,0 +1,5 @@
+length1 = int(input("Enter the length of first side\n"))
+length2 = int(input("Enter the length of second side\n"))
+length3 = int(input("Enter the length of third side\n"))
+print("The perimeter is =")
+print(length1 + length2 + length3)
